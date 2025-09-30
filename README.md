@@ -2,6 +2,8 @@
 
 A React application built with Vite and TypeScript that helps calculate resistor values for voltage dividers.
 
+<img width="548" height="800" alt="voltage_divider" src="https://github.com/user-attachments/assets/22a4a992-7af4-4d03-811c-111997fd11a1" />
+
 ## Features
 
 - Input the desired input and output voltages
